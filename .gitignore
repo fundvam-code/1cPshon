@@ -1,0 +1,19 @@
+# Файлы информационных баз 1С
+*.1CD
+*.1CL
+*.cfl
+*.cgr
+1Cv8*.1CD
+1Cv8*.1CL
+
+# Служебные папки и логи
+1Cv8Log/
+1Cv8JobScheduler/
+*.log
+*.bak
+*.tmp
+~$*
+
+# Системные файлы
+Thumbs.db
+.DS_Store
